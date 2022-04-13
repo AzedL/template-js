@@ -1,2 +1,3 @@
-# template-js
-template for javascript
+# {{name}}
+
+{{description}}
